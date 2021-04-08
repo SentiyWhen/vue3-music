@@ -50,6 +50,7 @@
 
 <style lang="scss" scoped>
   .slider {
+    position: relative;
     min-height: 1px;
     font-size: 0;
     touch-action: pan-y;
